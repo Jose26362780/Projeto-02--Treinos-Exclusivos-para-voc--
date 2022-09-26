@@ -1,6 +1,6 @@
  # Stage 01 Treinos exclusivos para você
 
-![preview](./projeto_02.png)
+![preview](./.github/projeto_02.png)
 
 
 > Trilha Explorer 
